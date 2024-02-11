@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🔨🔨 백엔드 주력 주니어 개발자 🔨🔨 
+### 🔨🔨 백엔드 주니어 개발자 🔨🔨 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilano08&count_bg=%23B05FE3&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
@@ -8,8 +8,9 @@
 
 
 ## 📣 Hello, I'm silano
-✔️ college student studying data science.  
-✔️ interested in back-end engineering.
+✔️ 재밌는 프로젝트에 참여하는 걸 좋아합니다.
+✔️ 데이터 과학부를 졸업했고,
+✔️ 서버,DB,인프라등 백엔드 개발에 관심있습니다.
 
 ## 🛠 Tech Stacks 🛠
 #### 📌 main force
