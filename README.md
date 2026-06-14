@@ -8,7 +8,8 @@
 
 **Backend Engineer** who builds, improves & automates.
 
-레거시를 개선하고, AI로 생산성을 끌어올리는 걸 좋아합니다.
+레거시를 개선하고, AI로 생산성을 끌어올리는 걸 좋아합니다.  
+주변사람과 함께 성장하는걸 좋아합니다! 스터디 문의 언제든 환영 👍
 
 <br/>
 
@@ -28,9 +29,9 @@
 
 #### Stack
 
-`Java` `Kotlin` `Spring Boot` `JPA` `PostgreSQL` `Docker` `Nginx`
+`Java` `Kotlin` `Spring Boot` `JPA` `PostgreSQL` `Docker` `Nginx` and sometimes.. `Python`
 
-> Architecture — MSA / DDD / API Gateway / BFF / Keycloak
+> Architecture — MSA / DDD / API Gateway / BFF / Keycloak  
 > AI — vLLM / OpenAI-compatible API / QA Automation Agent
 
 #### Projects
