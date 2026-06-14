@@ -28,10 +28,9 @@
 
 #### Stack
 
-`Java` `Kotlin` `Spring Boot` `JPA` `PostgreSQL` `Docker` `Nginx` `Grafana`
+`Java` `Kotlin` `Spring Boot` `JPA` `PostgreSQL` `Docker` `Nginx`
 
 > Architecture — MSA / DDD / API Gateway / BFF / Keycloak
->
 > AI — vLLM / OpenAI-compatible API / QA Automation Agent
 
 #### Projects
@@ -42,6 +41,14 @@
 | **QA Automation Agent** | QA 요청 → 코드 자동 생성 → Git 반영까지 자동화 |
 | **Insa-IT** | 성과 평가 시스템 · RBAC 권한 관리 · 데이터 시각화 |
 | [**tokingtoking**](https://github.com/silano08/tokingtoking) | 토스 앱 내 AI 영어 단어 학습 앱 |
+
+#### Study
+
+| Book | Repo | Period |
+|---|---|---|
+| Designing Data-Intensive Applications | Private | 2026.05.11 ~ |
+| Effective Java | [silano08/effective-java](https://github.com/silano08/effective-java) | 2024.09.01 ~ 2025.01.12 |
+| Java 객체지향 디자인 패턴 | [silano08/java-design-patterns](https://github.com/silano08/java-design-patterns) | 2024.06.03 ~ 2024.10.01 |
 
 ---
 
