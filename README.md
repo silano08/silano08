@@ -9,7 +9,7 @@
 레거시와 신규 시스템을 잇고, 운영이 편해지는 구조를 만듭니다.<br/>
 주변 사람과 같이 성장하는 걸 좋아해요. 스터디 제안은 언제든 환영 👋
 
-[Portfolio](https://silano08.github.io) · [Blog](https://lets-do-the-odessey.tistory.com/) · [LinkedIn](https://www.linkedin.com/in/gayeon-won/) · [Mail](mailto:henzel1013@gmail.com)
+[Portfolio](https://silano08.github.io) · [LinkedIn](https://www.linkedin.com/in/gayeon-won/) · [Mail](mailto:henzel1013@gmail.com)
 
 </div>
 
