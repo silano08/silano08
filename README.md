@@ -21,12 +21,6 @@
 - 🧩 **레거시 점진 전환** — MSA와 레거시를 잇는 통합 글루를 만들고, 스트랭글러 패턴으로 계약·심사·가맹점 업무를 단계적으로 이관
 - 🔐 **공통 플랫폼** — Keycloak SSO · OpenSearch/Fluent Bit · Prometheus/Grafana 기반 인증·관측 플랫폼 구축·운영
 
-#### Awards
-
-- 🏆 **SoftBank Hackathon 2026 본선 최우수상** (2026.11, Team Ghost) — 무중단 멀티 클라우드 이전 플랫폼 [Oneport](https://github.com/SoftBankHackathon2026/Hackathon). DB 이전 엔진(Debezium CDC)·OPA 정책 게이트·영속 접수 서비스·GitOps 배포 담당
-- 🥈 **SoftBank Hackathon 2026 예선 우수상** (2026.10, Team Amethyst) — AI 에이전트가 배포 파일을 만들되 검사 규칙은 끌 수 없는 원터치 배포 플랫폼, 플랫폼 코어 담당
-- 🛡️ **금융보안원 FIESTA 2026 본선 진출** (2026.09) — AI 활용 해킹 방어 대회, 2인 팀
-
 #### Certifications
 
 - ☁️ **AWS Certified Solutions Architect – Professional**
