@@ -50,6 +50,7 @@
 
 | Book | Repo | Period |
 |---|---|---|
+| 마이크로서비스 패턴 (Microservices Patterns) | Private | 2026.09 ~ 2026.10 |
 | Designing Data-Intensive Applications | Private | 2026.05 ~ |
 | Effective Java | [effective-java](https://github.com/silano08/effective-java) | 2024.09 ~ 2025.01 |
 | Java 객체지향 디자인 패턴 | [java-design-patterns](https://github.com/silano08/java-design-patterns) | 2024.06 ~ 2024.10 |
